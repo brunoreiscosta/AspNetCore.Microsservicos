@@ -35,3 +35,6 @@ Modifique os passos acima:
 	 - WebApps/WebStatus.csproj
 	
  8. Rode a aplicação
+
+ 9. SOBRE Microserviços
+ 10. https://www.alura.com.br/artigos/microservicos-com-dotnetcore-comunicacao-entre-servicos
